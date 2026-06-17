@@ -1,17 +1,17 @@
 # HOME-NETWORK-DIAGRAM
 HOME NETWORK DIAGRAM
 
-The purpose of the diagram.
+1. The purpose of the diagram.
 * The purpose of this project is to identify all devices ,IP addresses and protocols they use on my Home network
 
-How you discovered devices and protocols.
+2. How you discovered devices and protocols.
 * I discovered some of the devices by using fing,ipconfig, ARP, device settings
 
-What the SOC annotations reveal (trust boundaries, attack surface, blind spots).
+3. What the SOC annotations reveal (trust boundaries, attack surface, blind spots).
 
-What you would do differently if this were an enterprise network (network segmentation, NAC, 802.1X, logging everywhere).
+4. What you would do differently if this were an enterprise network (network segmentation, NAC, 802.1X, logging everywhere).
 
-This becomes a reusable document you can link in your resume or talk about in interviews.
+_This becomes a reusable document you can link in your resume or talk about in interviews.
 
 
 
